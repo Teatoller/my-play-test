@@ -1,0 +1,17 @@
+[
+    {
+        "src": "sugarcane.jpeg",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "name": "Arrow-patch"
+    },
+    {
+        "src": "oris.jpeg",
+        "name": "Uber-4",
+        "sizes": "192x192"
+    },
+    {
+        "src": "future.jpeg",
+        "name": "Serenade-10",
+        "sizes": "512x512"
+    }
+]
